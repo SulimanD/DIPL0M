@@ -1,4 +1,4 @@
-GoogleDrive version: https://drive.google.com/drive/folders/1bZ-n4Njvb_TJylEwaEc0bbvC3uKMCVR-?usp=drive_link
+
 
 <p style="text-align: center;"> Geekbrains </p>
 
