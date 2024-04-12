@@ -2,7 +2,7 @@
 
 <p style="text-align: center;"> Geekbrains </p>
 
-<p style="text-align: center;"> Факультет тестирования ПО </p>
+<p style="text-align: center;"> Факультет ПРОГРАММИСТ JAVA, РАЗРАБОТЧИК </p>
 
 ---
 
